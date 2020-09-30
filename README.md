@@ -8,7 +8,7 @@ Progetto per informatizzare la vita di Bit.
 - Bit (BitIlConiglietto) [Twitch]()
 
 # L'idea
-Tutto nasce dalla tristezza che provo quando vendo degli animali in gabbia; lo so che anche Bit è in una gabbia ma,
+Tutto nasce dalla tristezza che provo quando vendo degli animali in gabbia; lo so, anche Bit è in una gabbia ma,
 spero che con l'evolversi di questo progetto lui possa vivere una vita migliore, in uno spazio decisamente più ampio, 
 con tutti i confort a sua disposizione.
 
