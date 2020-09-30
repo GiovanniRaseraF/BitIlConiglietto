@@ -22,4 +22,4 @@ ostacoli interessanti.
 - Per ora nulla :(
 
 # TODO
-[TODO FILE]()
+[TODO FILE](https://github.com/GiovanniRaseraF/BitIlConiglietto/blob/master/TODOLIST/README.md)
